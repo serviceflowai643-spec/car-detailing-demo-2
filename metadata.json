@@ -1,0 +1,6 @@
+{
+  "name": "Pure Detailing UK",
+  "description": "Pure Detailing UK provides professional car detailing in Chelmsford, UK. Explore our detailing services, gallery and request a quote.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
